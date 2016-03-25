@@ -1,0 +1,28 @@
+name: minsang
+favicon: null
+layout_spectrum: 0.5181166264228523
+typography_spectrum: 0.6740706213749945
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.39037284441292286
+  lightness: 0.4772315996233374
+  saturation: 0.359254335751757
+  rhythmicContrast: 0.46161029930226505
+purpose: []
